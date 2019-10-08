@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1103.626" height="252.088" viewBox="0 0 1103.626 252.088">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0.068" stop-color="#fff001"/>
+      <stop offset="0.151" stop-color="#febd2e"/>
+      <stop offset="0.321" stop-color="#fd5a86"/>
+      <stop offset="0.439" stop-color="#fd1cbe"/>
+      <stop offset="0.495" stop-color="#fd04d4"/>
+      <stop offset="0.535" stop-color="#f20cd5"/>
+      <stop offset="0.604" stop-color="#d522da"/>
+      <stop offset="0.695" stop-color="#a747e2"/>
+      <stop offset="0.803" stop-color="#6779ed"/>
+      <stop offset="0.926" stop-color="#16b9fb"/>
+      <stop offset="0.957" stop-color="#00cbff"/>
+    </linearGradient>
+    <filter id="Path_3" x="0" y="0" width="1103.626" height="158.472" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_599" data-name="Group 599" transform="translate(-2886.374 -6627.912)">
+    <g transform="matrix(1, 0, 0, 1, 2886.37, 6627.91)" filter="url(#Path_3)">
+      <path id="Path_3-2" data-name="Path 3" d="M2992,6811.15h-51.241l-7.015,19.287h-46.369l57.672-136.577h46.369l55.522,136.577h-48.12Zm-11.106-32.343-14.029-39.942-14.417,39.942Zm99.76-84.947,20.651,89.624,20.264-89.624H3165.6l20.651,89.624,20.264-89.624h46.173l-44.613,136.577h-46.566l-18.9-81.633-19.484,81.633h-46.56L3032.33,6693.86Zm296.343,0v34.29h-70.331v16.757h63.9v34.29h-63.9v16.95h72.088v34.29h-117.29V6693.86Zm74.232,32.536c-5.068,0-8.378,1.56-8.378,5.651,0,17.147,70.724,6.428,70.724,55.918,0,30.393-26.689,43.836-57.475,43.836-23.771,0-50.264-7.988-68.384-21.821l16.757-33.9c14.023,11.689,38.181,21.237,52.014,21.237,6.628,0,10.915-2.144,10.915-7.015,0-17.73-70.724-6.041-70.724-53.967,0-27.279,22.991-44.423,58.445-44.423,21.628,0,44.036,6.428,59.429,16.17l-16.37,34.291C3484.348,6734.774,3463.114,6726.4,3451.228,6726.4Zm217.241,35.654c0,40.525-31.56,70.334-75.006,70.334s-75.012-29.612-75.012-70.334c0-40.525,31.56-69.554,75.012-69.554S3668.469,6721.722,3668.469,6762.05Zm-103.648.2c0,18.7,13.636,32.536,29.226,32.536s28.052-13.832,28.052-32.536-12.469-32.147-28.052-32.147C3578.26,6730.1,3564.821,6743.543,3564.821,6762.247Zm164.046-68.387,29.81,71.307,29.809-71.307h47.733v136.577h-39.354v-74.815l-23.379,61.566h-29.619l-23.378-61.566v74.815h-39.355V6693.86Zm242.376,0v34.29h-70.331v16.757h63.9v34.29h-63.9v16.95H3973v34.29H3855.71V6693.86Z" transform="translate(-2878.37 -6685.91)" fill="url(#linear-gradient)"/>
+    </g>
+    <text id="INC." transform="translate(2895 6866)" fill="#fff" font-size="73" font-family="CircularStd-Medium, Circular Std Medium" font-weight="500"><tspan x="0" y="0">INC.</tspan></text>
+  </g>
+</svg>
