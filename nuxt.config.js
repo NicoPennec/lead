@@ -10,7 +10,7 @@ const productionUrl = {
   en: "/en",
 
 };
-const baseUrl = 'https://saurabhcrai.com';
+const baseUrl = 'https://leadstarship.com';
 
 export default {
   mode: 'universal',
@@ -21,7 +21,7 @@ export default {
 
   head: {
 
-    title: 'Saurabh Rai - UX Designer and Front-End Developer',
+    title: 'leadStarship - Digital Innovation Company',
 
     meta: [
       { charset: 'utf-8' },

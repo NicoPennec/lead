@@ -7,26 +7,30 @@
         <div class="text-slide-in">
           <span class="link-effect2 hover-link2">
             <a href="#" target="_blank">
-              <span data-hover=" & take over the world! ">Yey! let's grab a coffee</span>
+              <span data-hover=" together">Let’s create <span class="designer">progress</span></span>
             </a>
           </span>
         </div>
         <div style="position:relative;     top: 14%;">
           <span class="footer-m-heading">
-            Yey! let's grab a coffee
-            <br />& take over the world!
+            Let’s create <span class="designer">progress</span> together
+            <br />together
           </span>
         </div>
 
         <div class="sayhi-container">
           <span class="sayhi2 para black61">or just say hi!</span>
           <span class="link-effect2 hover-link2">
-            <a href="mailto:hello@saurabhcrai.com">
+            <a href="mailto:hello@leadstarship.com">
               <span
                 class="sayhi3 black"
-                data-hover="hello@saurabhcrai.com ↗"
-              >hello@saurabhcrai.com ↗</span>
-            </a>
+                data-hover="hello@leadstarship.com ↗"
+              >hello@leadstarship.com ↗</span>
+            </a><br/>
+          </span>
+          <span class="sayhi2 para black61">
+           <small><br/>Singapore +65 81784748
+            <br/>Sri Lanka +94 77700 3095</small>
           </span>
         </div>
 
@@ -35,7 +39,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://www.facebook.com/saurabhchandrarai"
+                href="https://www.facebook.com/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Facebook (new tab)"
@@ -50,7 +54,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://www.instagram.com/saurabh.c.rai/"
+                href="https://www.instagram.com/leadstarship/"
                 target="_blank"
                 rel="noopener"
                 title="Instagram (new tab)"
@@ -65,7 +69,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://www.linkedin.com/in/saurabhchandrarai/"
+                href="https://www.linkedin.com/in/leadstarship/"
                 target="_blank"
                 rel="noopener"
                 title="Linkdin (new tab)"
@@ -80,7 +84,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://medium.com/@saurabhcrai"
+                href="https://medium.com/@leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Medium (new tab)"
@@ -95,7 +99,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://www.behance.net/saurabhcrai"
+                href="https://www.behance.net/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Behance (new tab)"
@@ -110,7 +114,7 @@
             <div class="social-two">
               <a
                 class="button"
-                href="https://github.com/SAURABHRAI110"
+                href="https://github.com/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Github(new tab)"
@@ -127,7 +131,7 @@
       <div class="footer-bottom-right">
         <p
           class="footer-dev-text"
-        >©2019 — Web app designed and coded by Saurabh Rai using Vue.js + Nuxt.</p>
+        >© leadstarship. All rights reserved 2019 </p>
       </div>
     </div>
   </footer>

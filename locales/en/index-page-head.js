@@ -1,4 +1,4 @@
 export default {
-  title: 'Saurabh Rai - UX Designer and Front-End Developer',
-  description: 'I’m a UX/UI Designer and Front-End Developer based in .'
+  title: 'leadStarship - Digital Innovation Company',
+  description: 'leadStarship is a design and development company that builds high-quality custom software, mobile apps and websites. We always deliver'
 }

@@ -11,7 +11,7 @@
       <div class="nametag-container contain">
         <div class="h-name" data-aos="fade-up" data-aos-duration="900">
           <nuxt-link to="/about" style="text-decoration: none;">
-            <span class="underline-magical">Saurabh Rai</span>
+            <span class="underline-magical">leadStarship</span>
           </nuxt-link>
         </div>
         <div
@@ -19,7 +19,7 @@
           data-aos="fade-up"
           data-aos-duration="900"
           data-aos-delay="200"
-        >UX/UI Designer & Developer</div>
+        >Design & Development Company</div>
       </div>
 
       <div
@@ -29,33 +29,22 @@
         data-aos-delay="400"
       >
         <h1>
-          <span>Experience</span>
+          <span>Digital Innovation <br/>Company</span>
           <br />
-          <span class="outlined">Designer</span> At
-          <br />Feeding Trends
+          <span class="outlined">that creates</span>
+          <span class="designer">Progress</span>
         </h1>
       </div>
       <div class="contain">
         <p data-aos="fade-up" data-aos-duration="900" data-aos-delay="600">
-          This website is my personal space where I'm trying to express my
-          creativity through
+          Design and development company that builds high-quality custom software, mobile apps and websites.
           <span>
             <nuxt-link to="/projects">
-              <span class="underline-magical">design</span>
-            </nuxt-link>,
-            <a
-              href="https://github.com/SAURABHRAI110"
-              target="_blank"
-              rel="noopener"
-              title="Github(new tab)"
-            >
-              <span class="underline-magical">code</span>
-            </a> and
-            <nuxt-link to="/blog">
-              <span class="underline-magical">writing.</span>
+              <span class="underline-magical">We always deliver.</span>
             </nuxt-link>
           </span>
         </p>
+        
       </div>
     </div>
 
@@ -79,7 +68,7 @@
           data-aos-delay="1200"
           data-aos-anchor-placement="top-bottom"
         >
-          <img id="zoom-default" src="~assets/img/home/2.gif" type="image/webp" />
+          <img id="zoom-default" src="~assets/img/home/2.jpg?webp" type="image/webp" />
         </div>
         <div
           class="bottom-fit"
@@ -98,7 +87,7 @@
           data-aos-delay="1400"
           data-aos-anchor-placement="top-bottom"
         >
-          <img id="zoom-default" src="~assets/img/home/4.gif" type="image/webp" />
+          <img id="zoom-default" src="~assets/img/home/4.jpg?webp" type="image/webp" />
         </div>
         <div class="middle-fit" data-aos="fade-up" data-aos-duration="600">
           <img id="zoom-default" src="~assets/img/home/5.jpg?webp" type="image/webp" />
@@ -122,7 +111,7 @@
           <img id="zoom-default" src="~assets/img/home/11.jpg?webp" type="image/webp" />
         </div>
         <div class="up-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
-          <img id="zoom-default" src="~assets/img/home/12b.jpg?webp" type="image/webp" />
+          <img id="zoom-default" src="~assets/img/home/12.jpg?webp" type="image/webp" />
         </div>
       </div>
     </section>
@@ -132,11 +121,11 @@
     <div class="more-about-me">
       <div class="center-h-v">
         <nuxt-link to="/about">
-          <discovermore class="hover-target" button-text="get to know me" />
+          <discovermore class="hover-target" button-text="start a project" />
         </nuxt-link>
       </div>
     </div>
-    <!-- Showcase video and parallax -->
+    <!-- Showcase video and parallax
     <div class="h-showreel">
       <div class="showreel-bg">
         <img src="~/assets/img/showreel-bg.jpg" alt="elevito wireframe" />
@@ -202,19 +191,17 @@
           </span>
         </div>
       </div>
-    </div>
+    </div> -->
     <!-- Work Heading -->
     <div class="h-work_heading contain">
       <h1>
-        A Small
-        <br />Selection of my
-        <br />
-        <span class="outlined">Work</span>
-        I Enjoy.
+        We create <span class="designer">progress</span>
+        <span class="outlined">by designing and
+        developing</span> digital
+        experiences
       </h1>
       <p>
-        Some of my selceted work or I say case study so that you
-        <br />can understand my process and how I work.
+         <span class="underline-magical">Featured</span> projects and whitepaper
       </p>
     </div>
 
@@ -317,6 +304,80 @@
 
     <!-- people parallax slide section -->
 
+    <!-- <div class="h-blog_heading contain">
+      <h1 class="no-white-space">
+        Our
+        <span class="designer">clientele</span>     
+        </h1>
+      <p>We’ve been lucky to <span class="underline-magical">work</span> with</p>
+    </div>
+     <section class="a-t-section">
+      <div class="contain">
+       <div class="h-sec2-grid">
+        <div
+          class="bottom-fit"
+          data-aos="fade-up"
+          data-aos-duration="600"
+          data-aos-delay="1000"
+          data-aos-anchor-placement="top-bottom"
+        >
+          <img id="zoom-default" src="~assets/img/home/1.jpg?webp" type="image/webp" />
+        </div>
+        <div
+          class="bottom-fit"
+          data-aos="fade-up"
+          data-aos-duration="600"
+          data-aos-delay="1200"
+          data-aos-anchor-placement="top-bottom"
+        >
+          <img id="zoom-default" src="~assets/img/home/2.gif" type="image/webp" />
+        </div>
+        <div
+          class="bottom-fit"
+          data-aos="fade-up"
+          data-aos-duratio="600"
+          data-aos-delay="1300"
+          data-aos-anchor-placement="top-bottom"
+          data-aos-offset="-200"
+        >
+          <img id="zoom-default" src="~assets/img/home/3.jpg?webp" type="image/webp" />
+        </div>
+        <div
+          class="bottom-fit"
+          data-aos="fade-up"
+          data-aos-duration="600"
+          data-aos-delay="1400"
+          data-aos-anchor-placement="top-bottom"
+        >
+          <img id="zoom-default" src="~assets/img/home/4.gif" type="image/webp" />
+        </div>
+        <div class="middle-fit" data-aos="fade-up" data-aos-duration="600">
+          <img id="zoom-default" src="~assets/img/home/5.jpg?webp" type="image/webp" />
+        </div>
+        <div class="middle-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+          <img id="zoom-default" src="~assets/img/home/6.jpg?webp" type="image/webp" />
+        </div>
+        <div class="middle-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+          <img id="zoom-default" src="~assets/img/home/7.jpg?webp" type="image/webp" />
+        </div>
+        <div class="middle-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+          <img id="zoom-default" src="~assets/img/home/8.jpg?webp" type="image/webp" />
+        </div>
+        <div class="up-fit" data-aos="fade-up" data-aos-duration="600">
+          <img id="zoom-default" src="~assets/img/home/9.jpg?webp" type="image/webp" />
+        </div>
+        <div class="up-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="100">
+          <img id="zoom-default" src="~assets/img/home/10.jpg?webp" type="image/webp" />
+        </div>
+        <div class="up-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="200">
+          <img id="zoom-default" src="~assets/img/home/11.jpg?webp" type="image/webp" />
+        </div>
+        <div class="up-fit" data-aos="fade-up" data-aos-duration="600" data-aos-delay="300">
+          <img id="zoom-default" src="~assets/img/home/12b.jpg?webp" type="image/webp" />
+        </div>
+      </div>
+      </div>
+    </section> -->
     <homepeople />
 
     <!-- <div class="applause-button_container">
@@ -327,13 +388,11 @@
 
     <div class="h-blog_heading contain">
       <h1 class="no-white-space">
-        Hack Things,
+        We walk the 
         <br />
-        <span class="outlined">Solve</span>
-        Problems.
-        <br />Be Curious.
+        <span class="designer">untrodden</span> <span class="outlined">path</span>
       </h1>
-      <p>Few of my latest blogs</p>
+      <p>Our focus is on solving business challenges with  <span class="underline-magical">cutting-edge</span> solutions that amaze users.</p>
     </div>
 
     <BlogSection :blogs="blogs" />
@@ -344,7 +403,7 @@
     <div class="more-about-me">
       <div class="center-h-v">
         <nuxt-link to="/blog">
-          <discovermore button-text="view all article" />
+          <discovermore button-text="view all articles" />
         </nuxt-link>
       </div>
     </div>
@@ -383,42 +442,7 @@ export default {
     })
   }
 
-  // data() {
-  //   return {
-  //     card: [
-  //       {
-  //         thumbnailName: 'Filming Eye',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase9.jpg')
-  //       },
-  //       {
-  //         thumbnailName: 'Art',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase7.jpg')
-  //       },
-  //       {
-  //         thumbnailName: 'Art',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase8.jpg')
-  //       },
-  //       {
-  //         thumbnailName: 'Art',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase9.jpg')
-  //       },
-  //       {
-  //         thumbnailName: 'Art',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase1.jpg')
-  //       },
-  //       {
-  //         thumbnailName: 'Art',
-  //         thumbnailDescription: 'Web, Identity',
-  //         thumbnailImage: require('~/assets/img/thumbnail/showcase10.jpg')
-  //       }
-  //     ]
-  //   }
-  // }
+  
 }
 </script>
 
@@ -730,4 +754,6 @@ export default {
 .h-blog_heading {
   padding: 40px 0px 40px 0px;
 }
+
+
 </style>

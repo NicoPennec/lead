@@ -430,7 +430,7 @@ view more work*/
 
 .more-about-me {
   width: 100%;
-  height: 60vh;
+  height: 50vh;
   position: relative;
 }
 
@@ -1499,7 +1499,7 @@ view more work*/
 .a-t-section {
   width: 100%;
   position: relative;
-  min-height: 100vh;
+  min-height: 40vh;
 }
 
 .a-t_bg_text {
@@ -3942,3 +3942,59 @@ blockquote {
 
   }
 }
+
+
+.designer {
+  background: linear-gradient(23deg, #28e3b3, #2892e3, #7b28e3, #e3286c, #28e3d9, #e3dc28, #28e355, #e3a228);
+  background-size: 1600% 1600%;
+  -webkit-animation: AnimationName 30s ease infinite;
+  -moz-animation: AnimationName 30s ease infinite;
+  -o-animation: AnimationName 30s ease infinite;
+  animation: AnimationName 30s ease infinite; }
+
+.designer {
+  text-align: center;
+  color: #000;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+
+@-o-keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 50%; }
+  50% {
+    background-position: 100% 50%; }
+  100% {
+    background-position: 0% 50%; } }
+
+.developer {
+  animation: blinker 0.75s linear infinite; }
+
+@keyframes blinker {
+  50% {
+    opacity: 0; } }

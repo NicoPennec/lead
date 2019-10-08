@@ -10,12 +10,12 @@
       </div>
 
       <div class="contain b-heading-container">
-        <p class="pm b-h-subheading" data-aos="fade-up" data-aos-duration="1000">My Blog</p>
+        <p class="pm b-h-subheading" data-aos="fade-up" data-aos-duration="1000">Our Blog</p>
         <h1 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-          Hack Things
-          <br />Solve Problems
+          We leave our
+          <br /><span class="designer">foot-prints</span> for
           <br />
-          <span class="outlined">Be Curious.</span>
+          <span class="outlined">the others</span>
         </h1>
         <p
           class="pm b-subheading_2"
@@ -23,13 +23,14 @@
           data-aos-duration="900"
           data-aos-delay="600"
         >
-          When I am not designing or coding, I read. I read a lot and write them on medium and some of them make it here
-          on my website blog. I usually write about
+
+
           <span
             class="underline-magical"
-          >Code</span>,
-          <span class="underline-magical">Design</span> and
-          <span class="underline-magical">my Life.</span>
+          >Design</span>,
+          <span class="underline-magical">Development</span>,
+          <span class="underline-magical">Data</span> and
+          <span class="underline-magical">Life.</span>
         </p>
       </div>
     </div>
@@ -100,25 +101,7 @@ export default {
       return
     }
   }
-  // head() {
-  //   return {
-  //     title: 'My Blog',
-  //     titleTemplate: '%s - Saurabh Rai',
-  //     meta: [
-  //       {
-  //         hid: 'description',
-  //         name: 'description',
-  //         content: ' UX, Coding and Life'
-  //       },
-  //       {
-  //         hid: 'keywords',
-  //         name: 'keywords',
-  //         content:
-  //           'my blog, saurabh rai blog, saurabh c rai blog, Best coding blog, blogging website, best designers blog, ux blog, design and code'
-  //       }
-  //     ]
-  //   }
-  // }
+  
 }
 </script>
 
