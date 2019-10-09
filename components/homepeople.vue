@@ -1,12 +1,12 @@
 <template>
   <div class="h-people-container">
     <div class="h-p-text">
-      <h1>PEOPLE</h1>
-      <p>who makes it all worth</p>
+      <h1>Our Team</h1>
+      <p><strong class="designer">Get to know us better</strong></p>
     </div>
-    <div class="c-d">
+    <!-- <div class="c-d">
       <img src="~assets/svg/c-development.svg" alt />
-    </div>
+    </div> -->
     <div class="h-p-overlay"></div>
     <div class="h-p-wrapper">
       <div class="h-people-grid">
@@ -29,7 +29,7 @@
             <img src="~assets/img/people/home-people-4.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-5.jpg" />
+            <img src="~assets/img/people/home-people.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people-6.jpg" />
@@ -46,7 +46,7 @@
             <img src="~assets/img/people/home-people-9.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-10.jpg" />
+            <img src="~assets/img/people/home-people.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people-11.jpg" />
@@ -63,12 +63,12 @@
             <img src="~assets/img/people/home-people-14.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-2.jpg" />
+            <img src="~assets/img/people/home-people.jpg" />
           </div>
         </div>
         <div class="h-p-column h-p-column5 rellax" v-rellax="{ speed: 9, center: 0.6 }">
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-8.jpg" />
+            <img src="~assets/img/people/home-people.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people-5.jpg" />
@@ -131,11 +131,11 @@ export default {}
 }
 
 .h-p-column > div:nth-child(1n) {
-  background-color: red;
+  background-color: #D91C5C;
 }
 
 .h-p-column > div:nth-child(2n) {
-  background-color: rgb(221, 133, 133);
+  background-color: rgb(170, 100, 100);
 }
 
 .h-p-column > div:nth-child(3n) {
@@ -175,14 +175,14 @@ export default {}
 .h-p-text > h1 {
   font-size: 100px;
   color: white;
-  letter-spacing: 4px;
+  /* letter-spacing: 4px; */
   margin: 4px;
 }
 
 .h-p-text > p {
-  font-size: 20px;
+  font-size: 42px;
+  font-weight: bold;
   color: white;
-  letter-spacing: 8px;
   margin-top: 0px;
   text-align: center;
 }
