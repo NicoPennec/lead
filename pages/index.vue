@@ -305,7 +305,7 @@
             <thumbnail
               thumbnailName="Sierra Green"
               thumbnailDescription="Mobile App Design & Development"
-              thumbnail="~assets/img/home/1.jpg?webp"
+              thumbnail="/showcase1.webp"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="0"
@@ -315,10 +315,10 @@
           </nuxt-link>
         </div>
         <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/dear-zindagi">
+          <nuxt-link to="/projects/toko">
             <thumbnail
-              thumbnailName="Dear Zindagi"
-              thumbnailDescription="Brochure, Identity"
+              thumbnailName="Toko"
+              thumbnailDescription="Mobile App & Blockchain Development"
               thumbnail="/showcase2.webp"
               data-aos="fade-up"
               data-aos-duration="400"
@@ -328,58 +328,7 @@
             />
           </nuxt-link>
         </div>
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/mr-irritating">
-            <thumbnail
-              thumbnailName="Mr. Irritating"
-              thumbnailDescription="Print, Social Media"
-              thumbnail="/showcase3.webp"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="0"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/r3">
-            <thumbnail
-              thumbnailName="R3"
-              thumbnailDescription="Social Media, logo"
-              thumbnail="/showcase4a.webp"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="200"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/awesome-inc">
-            <thumbnail
-              thumbnailName="Awesome Inc."
-              thumbnailDescription="Identity, Print"
-              thumbnail="/showcase5b.webp"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="0"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/elevito">
-            <thumbnail
-              thumbnailName="Elevito"
-              thumbnailDescription="Web, Branding, Print"
-              thumbnail="/showcase6d.webp"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="200"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
+        
       </div>
     </div>
 

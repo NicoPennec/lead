@@ -3998,3 +3998,15 @@ blockquote {
 @keyframes blinker {
   50% {
     opacity: 0; } }
+
+    .type-sub2{
+      background: #fff;
+    max-width: 230px;
+    float: right;
+    padding: 0 10px;
+    }
+.type-sub3{
+  background: black;
+    color: #fff;
+    padding: 0 10px;
+}
