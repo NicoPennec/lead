@@ -7,7 +7,7 @@
         <div class="text-slide-in">
           <span class="link-effect2 hover-link2">
             <a href="#" target="_blank">
-              <span data-hover=" together">Let’s create <span class="designer">progress</span></span>
+              <span data-hover=" together with us!">Let’s create <span class="designer">progress</span></span>
             </a>
           </span>
         </div>
@@ -28,10 +28,23 @@
               >hello@leadstarship.com ↗</span>
             </a><br/>
           </span>
-          <span class="sayhi2 para black61">
-           <small><br/>Singapore +65 81784748
-            <br/>Sri Lanka +94 77700 3095</small>
+          <span class="link-effect2 hover-link2 phonenum">
+            <a href="tel:+6581784748">
+              <span
+                class="sayhi3 black"
+                data-hover="WhatsApp: +6581784748"
+              >Singapore: +65 83856543&nbsp;&nbsp;</span>
+            </a><br/>
           </span>
+          <span class="link-effect2 hover-link2 phonenum">
+            <a href="tel:+94777003095">
+              <span
+                class="sayhi3 black"
+                data-hover="WhatsApp: +94777003095"
+              >Sri Lanka: +94 777003095&nbsp;&nbsp;</span>
+            </a><br/>
+          </span>
+          
         </div>
 
         <div class="social-icon_container">
@@ -72,7 +85,7 @@
                 href="https://www.linkedin.com/in/leadstarship/"
                 target="_blank"
                 rel="noopener"
-                title="Linkdin (new tab)"
+                title="Linkedin (new tab)"
               >
                 <div class="social-three">
                   <img class="social-four" src="~assets/footer/linkdin-lightgrey.png" />
@@ -95,7 +108,7 @@
               </a>
             </div>
           </div>
-          <div class="social-one">
+          <!-- <div class="social-one">
             <div class="social-two">
               <a
                 class="button"
@@ -109,7 +122,7 @@
                 </div>
               </a>
             </div>
-          </div>
+          </div> -->
           <div class="social-one">
             <div class="social-two">
               <a
@@ -412,7 +425,7 @@ export default {}
   }
 
   .social-icon_container {
-    top: 51%;
+    top: 55%;
   }
 
   .footer-hand {
@@ -453,5 +466,9 @@ export default {}
   .footer-m-heading {
     font-size: 26px;
   }
+}
+
+.phonenum{
+  font-size: 16px;
 }
 </style>

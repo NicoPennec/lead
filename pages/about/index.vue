@@ -360,7 +360,7 @@
         <div class="a-c_heading">
           <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
             <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">To stay connected</h1>
+            <h1 class="margin_reveal">Stay connected</h1>
           </div>
         </div>
 

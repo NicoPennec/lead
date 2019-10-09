@@ -38,7 +38,7 @@
             <thumbnail
               thumbnailName="Elevito"
               thumbnailDescription="Web, Branding, Print"
-              thumbnail="/showcase6d.webp"
+              thumbnail="/showcase1.webp"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="800"

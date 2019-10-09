@@ -104,7 +104,7 @@ a {
 /* Colours Pallete*/
 
 :root {
-  --primary-color: #fc3a52;
+  --primary-color: #D91C5C;
   --tertiary-color: #1c1b20;
   --secondary-color: #f6ecdd;
   --image-bg-color: #dbdbdb;
@@ -115,13 +115,13 @@ a {
   --black: #000000;
   --dark-blue: #1f2029;
   --dark-light: #424455;
-  --red: #fc3a52;
+  --red: #D91C5C;
   --yellow: #f8ab37;
   --grey: #ecedf3;
 }
 
 .red {
-  color: #fc3a52;
+  color: #D91C5C;
 }
 
 .black {
