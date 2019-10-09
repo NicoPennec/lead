@@ -13,7 +13,7 @@
         </div>
         <div style="position:relative;     top: 14%;">
           <span class="footer-m-heading">
-            Let’s create <span class="designer">progress</span> together
+            Let’s create <span class="designer">progress</span>
             <br />together
           </span>
         </div>
@@ -257,7 +257,7 @@ export default {}
 }
 
 .sayhi2 {
-  margin-bottom: 5px;
+  padding-bottom: 15px;
   color: #656565;
 }
 

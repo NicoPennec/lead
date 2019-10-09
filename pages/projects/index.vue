@@ -10,10 +10,10 @@
       </div>
 
       <div class="contain w-h-container">
-        <p class="pm w-h-subheading" data-aos="fade-up" data-aos-duration="1000">case studies</p>
+        <p class="pm w-h-subheading" data-aos="fade-up" data-aos-duration="1000">case studies & white paper</p>
         <h1 data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-          Some of my
-          <br />Finest
+          Some of our
+          <br /><span class="designer">Latest</span>
           <span class="outlined">Work</span>
         </h1>
         <p
@@ -22,9 +22,8 @@
           data-aos-duration="900"
           data-aos-delay="600"
         >
-          Here are some of my work from past years. Some were awesome some just good.
-          But with time I learned more and more and got a hang of making good works.
-          Currently I also code my design.
+         Strategy + Design + Development</br>
+        Whatever the challenge, we always deliver a solution.
         </p>
       </div>
     </div>
@@ -289,34 +288,6 @@
             />
           </nuxt-link>
         </div>
-
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/utkarsh">
-            <thumbnail
-              thumbnailName=" Utkarsh"
-              thumbnailDescription="Web, Branding, Social"
-              thumbnail="/utkarsh-thumbnail.jpg"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="0"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
-
-        <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/my-portfolio-website">
-            <thumbnail
-              thumbnailName=" My Website "
-              thumbnailDescription=" Web design and development"
-              thumbnail="/my-website-thumbnail.jpg"
-              data-aos="zoom-out-up"
-              data-aos-duration="400"
-              data-aos-delay="0"
-              data-aos-once="true"
-            />
-          </nuxt-link>
-        </div>
       </div>
     </div>
 
@@ -326,16 +297,12 @@
     <!-- my quote -->
 
     <div class="my-project-quote">
-      <p class="contain p-quote">
-        "The greatest Project is the one you work on yourself".
-        <br />This is no way the end, this is just a start.
-      </p>
-      <hr class="section-divider" />
+      <h1 class="contain" data-aos="fade-up" data-aos-duration="900" data-aos-delay="400">
+          We live by the
+          <span class="outlined">Code of</span> <span class="designer">Passionate</span>
+          Determination
+        </h1>
     </div>
-
-    <!-- See my Photography -->
-    <div class="w-photography-container"></div>
-    <div class="w-arts-container"></div>
   </div>
 </template>
 
@@ -354,15 +321,15 @@ export default {
 <style>
 .my-project-quote {
   width: 100%;
-  height: 60vh;
+  height: 50vh;
   background-color: var(--primary-color);
   padding: 0px 0px 0px 0px;
   position: relative;
 }
 
-.my-project-quote p {
+.my-project-quote h1 {
   color: white;
   position: relative;
-  top: 50%;
+  top: 25%;
 }
 </style>

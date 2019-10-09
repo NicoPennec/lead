@@ -21,19 +21,21 @@
           data-aos="fade-up"
           data-aos-duration="900"
           data-aos-delay="200"
-        >who i am</p>
+        >who are we</p>
         <h1 data-aos="fade-up" data-aos-duration="900" data-aos-delay="400">
-          Nimble,
-          <span class="outlined">Passionate</span>
-          UX
-          <span class="outlined">Designer</span>
+          We live by the
+          <span class="outlined">Code of</span> <span class="designer">Passionate</span>
+          Determination
         </h1>
         <p
           class="pm a-subheading_2"
           data-aos="fade-up"
           data-aos-duration="900"
           data-aos-delay="600"
-        >and I am always learning. Like past few months I have been learnig how to code. Now I can bring design into a pixel perfect reality.</p>
+        >We’re technologists and entrepreneurs, so we understand both the technical and business challenges of creating digital products.
+
+</p>
+
       </div>
     </div>
 
@@ -42,17 +44,17 @@
         <div v-rellax="{ speed: -1.2, center: 0.4 }" class="me-image1">
           <img
             src="~/assets/img/about/about-me-1c.jpg?webp"
-            alt="saurabh rai, saurabhcrai.com, photo indian boy"
+            alt="leadstaship"
           />
         </div>
         <div v-rellax="{ speed: 1, center: 0.3 }" class="me-image2">
-          <img src="~/assets/img/about/about-me-2.jpg?webp" alt="saurabh rai, indian boy" />
+          <img src="~/assets/img/about/about-me-2.jpg?webp" alt="leadstaship" />
         </div>
         <div v-rellax="{ speed: -2, center: 0.7 }" class="me-image4">
-          <img src="~/assets/img/about/about-me-4.jpg?webp" alt="saurabh rai, indian boy" />
+          <img src="~/assets/img/about/about-me-4.jpg?webp" alt="leadstaship" />
         </div>
         <div v-rellax="{ speed: 3, center: 0.5 }" class="me-image3">
-          <img src="~/assets/img/about/about-me-3.jpg?webp" alt="saurabh rai, indian boy" />
+          <img src="~/assets/img/about/about-me-3.jpg?webp" alt="leadstaship" />
         </div>
       </div>
     </div>
@@ -60,141 +62,105 @@
 
     <div class="about-section3">
       <div class="about-me-text a-hello_container contain">
-        <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
-          <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-          <h2 class="a-hello primary-color maegin_reveal">Hello there!</h2>
-        </div>
         <p class="para hero-para black70">
-          Hi! I'm Saurabh Rai, and I am currently a User experience designer at
-          <a
-            href="https://feedingtrends.com/"
-            target="_blank"
-            rel="noopener"
-            title="feedingtrends.com"
-          >
-            <span class="underline-magical">Feeding Trends</span>
-          </a>in Lucknow, India. I consider myself a
-          multi-disciplinary designer as I love making anything, but have
-          recently found a passion in creating thoughtful and enjoyable user
-          experiences through product design, and code them too if time allows.
-          I work with passionate team of front-end developers,
-          back-end-developers and some ninja people whom I work with and learn from them.
-        </p>
-        <p class="para hero-para black70">
-          Coming to college, I moved on to study Engineering at Babu Banarasi Das Universiy,
-          Lucknow, and began to grow my skills. Making flyers for college
-          community and friends. Doing logos and branding work for friends and
-          word of mouth clients. Going to college during the day and cranking
-          on design work at night. Engineering led me to my passion for design.
-          I Self taught myself all these years
-          to do things that my mind can comprehend.
-        </p>
-
-        <p class="para hero-para black70">
-          As a software engineer, I enjoy bridging the gap between
-          engineering and design — combining my technical knowledge
-          with my keen eye for design to create a beautiful product.
-          My goal is to always build applications that are scalable and efficient
-          under the hood while providing engaging, pixel-perfect user experiences.
-        </p>
-        <p class="para hero-para black70">
-          I love what I do. The combination of business goals, mixed with
-          human necessity, mixed with solid design nad challenges that put me on edge is what gets me going every
-          day. This might sound cliche, I wake up each day to do something new and learn form them.
-          Don't hesitate to reach out if you'd like to chat about design,
-          life, or just have a good ol' fashioned conversation.
-        </p>
-
-        <p class="para hero-para black70">
-          I am Crazzy about Ice-tea. You can make me do anything over Ice-Tea. My friends
-          do this all the time. When I'm not in front of a computer screen, I'm probably amidst nature,
-          trying to get some decent shot on my Nikon D5200 or just chilling out with friends or with myself.
+          We strive to grab <span class="underline-magical">new possibilities</span>, not to stutter or trip, but to <span class="underline-magical">walk with determination</span>, to walk with <span class="underline-magical">passion</span>, and decode the unknown and the known.
         </p>
       </div>
     </div>
 
-    <!-- capability -->
+    <!-- services -->
     <section class="a-c-section">
       <div class="contain">
         <div class="a-c_heading">
           <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
             <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">Capabilities</h1>
+            <h1 class="margin_reveal">Services</h1>
           </div>
         </div>
 
         <div class="a-c_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
-          <span>Capabilities</span>
+          <span>Services</span>
         </div>
 
         <div class="a-c-design">
-          <p class="a-c_subheading red">+Design</p>
+          <p class="a-c_subheading red">+Digital Products</p>
 
           <div class="pm black70">
             <div class="a-c_layout">
-              <span>Creative/ Art Direction</span>
-              <span>User Experience Design</span>
-              <span>Interface & Interaction Design</span>
-              <span>Interactive Experiences</span>
-              <span>Digital Product Design</span>
-              <span>Interactive Prototyping</span>
-              <span>2D & 3D Illustration</span>
-              <span>Motion Graphics</span>
-              <span>Brand Identity</span>
-              <span>Print Design</span>
-              <span>Coffee Drinking</span>
-              <span>Digital, Social Campaigns</span>
-              <span>Graphic Design</span>
-              <span>Creative Writing</span>
+              <span>Combining a strategic approach to product development with technology and design expertise to shape your business idea into a digital product that is able to achieve defined goals.</span>
             </div>
           </div>
         </div>
-
-        <div class="a-c-code">
-          <p class="a-c_subheading red">+Code</p>
+        <div class="a-c-design">
+          <p class="a-c_subheading red">+Custom Software</p>
 
           <div class="pm black70">
             <div class="a-c_layout">
-              <span>HTML</span>
-              <span>CSS/Saas</span>
-              <span>Vue.js</span>
-              <span>NuxtJs Framework</span>
-              <span>Green shock animation platform (GSAP)</span>
-              <span>Bootstrap</span>
-              <span>Git & Github</span>
-              <span>Codepen</span>
-              <span>Chrome DevTools</span>
-              <span>Staring at others code</span>
+              <span>Developing innovative digital platforms and one-of-a-kind custom software solutions that upgrade your business processes, solve specific problems and enable you to grow your business.</span>
             </div>
           </div>
         </div>
-        <nuxt-link to="/photography">
-          <div class="a-c_photography">
-            <p class="a-c_subheading red">+Photography</p>
+        <div class="a-c-design">
+          <p class="a-c_subheading red">+Mobile Applications</p>
+
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>Leveraging the benefits of iOS and Android to design and develop custom mobile apps that will make your customers and employees want to keep your business close to them.</span>
+            </div>
           </div>
-        </nuxt-link>
-        <div class="a-hl"></div>
-
-        <div class="a-c_photography">
-          <p class="a-c_subheading red">+Drawing and Arts</p>
         </div>
-        <div class="a-hl"></div>
+        <div class="a-c-design">
+          <p class="a-c_subheading red">+Advanced Websites</p>
 
-        <nuxt-link to="/blog">
-          <div class="a-c_photography">
-            <p class="a-c_subheading red">+Blogging</p>
+          <div class="pm black70">
+            <div class="a-c_layout">
+              <span>Using a user-centric approach and advanced UX/UI methodologies to create amazing-looking and responsive web platforms that grow your business and evolve your users’ experience.</span>
+            </div>
           </div>
-        </nuxt-link>
-
-        <div class="a-hl"></div>
-
-        <div class="a-c_photography">
-          <p class="a-c_subheading red">+Ariving on time</p>
         </div>
-        <div class="a-hl"></div>
       </div>
     </section>
 
+<section class="a-p-section">
+      <div class="contain">
+        <div class="a-c_heading">
+          <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
+            <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
+            <h1 class="margin_reveal">Expertise</h1>
+          </div>
+        </div>
+
+        <div class="a-t_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
+          <span>Expertise</span>
+        </div>
+
+        <div class="pm black70">
+          <div class="a-p_layout_column">
+            <nuxt-link to="/projects/filmingeye">
+              <div class="a-p_layout_row black70">
+                <h2 class="designer">Strategy</h2>
+                <h2 class=""></h2>
+                <span>The first people you’ll meet are our business, UX and technology experts. Together you'll discuss ideas and opportunities, and then we'll deliver blueprints for the best solution.</span>
+              </div>
+            </nuxt-link>
+           <nuxt-link to="/projects/filmingeye">
+              <div class="a-p_layout_row black70">
+                <h2 class="designer">Design</h2>
+                <h2 class=""></h2>
+                <span>In this stage, we translate the strategic basis of the project into visual design. The aim is to create an impressive experience in the interaction between the brand and the user.</span>
+              </div>
+            </nuxt-link>
+            <nuxt-link to="/projects/filmingeye">
+              <div class="a-p_layout_row black70">
+                <h2 class="designer">Development</h2>
+                <h2 class=""></h2>
+                <span>Our code crafters are included in the project from the very beginning. They create progressive solutions placed on the right platforms to enhance the user experience.</span>
+              </div>
+            </nuxt-link>
+          </div>
+        </div>
+      </div>
+    </section>
     <!-- tools -->
 
     <section class="a-t-section">
@@ -202,21 +168,20 @@
         <div class="a-c_heading">
           <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
             <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">Tools</h1>
+            <h1 class="margin_reveal">Technology Stack</h1>
           </div>
         </div>
 
         <div class="a-t_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
-          <span>Tools</span>
+          <span>Stack</span>
         </div>
-
-        <div class="pm black70">
-          <div class="a-t_layout">
-            <span>
-              <img src="~assets/img/about/a-tools-1.svg" alt="adobe xd svg icon" /> Adobe XD
-            </span>
+        <h3 class="margin_reveal">Design</h3>
+        <div class="a-t_layout">
             <span>
               <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Sketch
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-1.svg" alt="adobe xd svg icon" /> Adobe XD
             </span>
             <span>
               <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Framer X
@@ -225,31 +190,10 @@
               <img src="~assets/img/about/a-tools-2.svg" alt="Invision svg icon" />Invision Studio
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-10.svg" alt="Adobe Illustrator svg icon" />Adobe Illustrator
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-11.svg" alt="Adobe Photoshop svg icon" />Adobe Photoshop
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-3.svg" alt="Adobe After Effects svg icon" />Adobe After Effects
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-12.svg" alt="Adobe Premiere Pro svg icon" />Adobe Premiere Pro
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-13.svg" alt="Adobe Indesign svg icon" />Adobe Indesign
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-4.svg" alt="Adobe Lightroom svg icon" />Adobe Lightroom
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-15.png" alt="Figma svg icon" />Cinema 4D
+              <img src="~assets/img/about/a-tools-10.svg" alt="Adobe Illustrator svg icon" />Adobe Creative Suite
             </span>
             <span>
               <img src="~assets/img/about/a-tools-5.svg" alt="Zeplin svg icon" />Zeplin
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-16.png" alt="UXPin svg icon" />UXPin
             </span>
             <span>
               <img src="~assets/img/about/a-tools-14.svg" alt="UXPin svg icon" />Figma
@@ -257,7 +201,7 @@
             <span>
               <img src="~assets/img/about/a-tools-17.png" alt="Balsamiq svg icon" />Balsamiq
             </span>
-            <span>
+            <!-- <span>
               <img src="~assets/img/about/a-tools-6.svg" alt="Visual Studio Code svg icon" />Visual Studio Code
             </span>
             <span>
@@ -268,203 +212,127 @@
             </span>
             <span>
               <img src="~assets/img/about/a-tools-7.svg" alt="Slack svg icon" />Slack
-            </span>
+            </span> -->
             <span>
               <img src="~assets/img/about/a-tools-21.png" alt="Pen & Paper png icon" />Pen & Paper
             </span>
-          </div>
+        </div>
+        <br/>
+        <h3 class="margin_reveal">Front end</h3>
+        <div class="a-t_layout">
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Angular JS
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Vue JS
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />React
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Javascript ES6
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Sass
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Flexbox
+            </span>
+        </div>
+        <br/>
+        <h3 class="margin_reveal">Mobile</h3>
+        <div class="a-t_layout">
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />React Native
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Kotlin
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Swift
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Java
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Ionic
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Flutter
+            </span>
+        </div>
+        <br/>
+        <h3 class="margin_reveal">Technologies</h3>
+        <div class="a-t_layout">
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Docker
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Blockchain
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />IoT
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />ML
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Gaming
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />VR & AR
+            </span>
+        </div>
+        <h3 class="margin_reveal">Server side</h3>
+        <div class="a-t_layout">
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />LAMP
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Java
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Node JS
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Mongo
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Redis
+            </span>
+            <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />C#
+            </span>
+             <span>
+              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Python
+            </span>
         </div>
       </div>
     </section>
     <!-- projects section -->
 
-    <section class="a-p-section">
-      <div class="contain">
-        <div class="a-c_heading">
-          <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
-            <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">Projects</h1>
-          </div>
-        </div>
-
-        <div class="a-t_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
-          <span>Projects</span>
-        </div>
-
-        <div class="pm black70">
-          <div class="a-p_layout_column">
-            <nuxt-link to="/projects/filmingeye">
-              <div class="a-p_layout_row black70">
-                <span>2019</span>
-                <span>Filming Eye</span>
-                <span>Web, Branding</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/ft-events">
-              <div class="a-p_layout_row black70">
-                <span>2019</span>
-                <span>FT Event</span>
-                <span>Web, Admin</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/dreamz">
-              <div class="a-p_layout_row black70">
-                <span>2019</span>
-                <span>Dreamz</span>
-                <span>App, Prototyping</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/elevito">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Elevito</span>
-                <span>Web, Branding</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/feeding-trends">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Feeding Trends</span>
-                <span>Web, Branding, Print</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/awesome-inc">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Awesome Incorporation</span>
-                <span>Identity, Print</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/bharatrohan">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>BharatRohan</span>
-                <span>Admin, App, Web</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/dear-zindagi">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Dear Zindagi</span>
-                <span>Print, Logo</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/prepowl">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Prepowl</span>
-                <span>Web, Branding</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/r3">
-              <div class="a-p_layout_row black70">
-                <span>2018</span>
-                <span>Read Recite Repeat</span>
-                <span>Social Media, Logo</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/mr-irritating">
-              <div class="a-p_layout_row black70">
-                <span>2017</span>
-                <span>Mr. Irritating</span>
-                <span>Print Design</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/thebbdtimes">
-              <div class="a-p_layout_row black70">
-                <span>2015</span>
-                <span>The BBD Times</span>
-                <span>Branding, Marketing, Print</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/tbt-app">
-              <div class="a-p_layout_row black70">
-                <span>2015</span>
-                <span>TBT App</span>
-                <span>App Design</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-
-            <nuxt-link to="/projects/thebegining">
-              <div class="a-p_layout_row black70">
-                <span>2014</span>
-                <span>The Begining</span>
-                <span>Everything Messy</span>
-                <span>↗</span>
-              </div>
-            </nuxt-link>
-          </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- showreel -->
-
-    <section class="a-s-section">
-      <div class="showreel-heading">
-        <div class="contain">
-          <h2>
-            Enough reading.
-            <br />Just watch my
-            <span class="red">showreel.</span>
-          </h2>
-          <div class="a-s_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
-            <span>Showreel</span>
-          </div>
-        </div>
-        <div class="a-s-bg-container">
-          <img src="~assets/img/about/showreel-bg.jpg?webp" alt="showreel" />
-        </div>
-      </div>
-    </section>
-
-    <!-- crazy me -->
+    <!-- work -->
 
     <section class="a-crazy-section">
       <div class="contain">
         <div class="a-c_heading">
           <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
             <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">Be Crazy</h1>
+            <h1 class="margin_reveal">Discuss your project with us</h1>
           </div>
         </div>
 
         <div class="a-t_bg_text outlined" v-rellax="{ speed: -3, center: 0.5 }">
-          <span>Be Crazy</span>
+          <span>Discuss</span>
         </div>
       </div>
       <div class="p-quote contain red">
         <blockquote>
-          Be crazy, be stupid, be silly, be weird. Be whatever,
-          because life is too short to be anything but happy.
+          4 ways to work with us:<br/>
+          <small class="black70">Fixed Price<br/>Time and Materials <br/>Retained Partnership<br/>Consulting & Training</small>
         </blockquote>
       </div>
-
+        
       <div class="a-crazy-layout">
         <div class="a-crazy-bg">
           <img src="~assets/img/about/crazy-bg-red.svg" alt="backgrounds red" />
@@ -484,23 +352,7 @@
         </div>
       </div>
     </section>
-    <!-- Journey section -->
-
-    <section class="journey-container">
-      <div class="contain">
-        <div class="a-c_heading">
-          <div class="reveal-holder" data-aos="reveal-item" data-aos-once="true">
-            <div class="reveal-block red right" data-aos="reveal-right" data-aos-once="true"></div>
-            <h1 class="margin_reveal">journey</h1>
-          </div>
-        </div>
-
-        <div class="a-t_bg_text outlined" v-rellax="{ speed: -1, center: 0.5 }">
-          <span>journey</span>
-        </div>
-        <p>Adding my journey soon</p>
-      </div>
-    </section>
+    
 
     <!-- get connected -->
     <section class="connect-container">
@@ -520,7 +372,7 @@
           <p>
             <span>
               <a
-                href="https://www.facebook.com/saurabhchandrarai"
+                href="https://www.facebook.com/leadstarship"
                 target="_blank"
                 title="Facebook (new tab)"
                 rel="noopener"
@@ -532,7 +384,7 @@
 
             <span>
               <a
-                href="https://www.instagram.com/saurabh.archives/"
+                href="https://www.instagram.com/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Instagram (new tab)"
@@ -544,15 +396,15 @@
             <br />
 
             <span>
-              <a href="mailto:hello@saurabhcrai.com">
+              <a href="mailto:hello@leadstarship.com">
                 <img src="~assets/svg/mail.svg" alt="mail icon svg" />
-                <span class="underline-magical">hello@saurabhcrai.com</span>
+                <span class="underline-magical">hello@leadstarship.com</span>
               </a>
             </span>
             <br />
             <span>
               <a
-                href="https://medium.com/@saurabhcrai"
+                href="https://medium.com/@leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Medium (new tab)"
@@ -564,7 +416,7 @@
 
             <span>
               <a
-                href="https://www.linkedin.com/in/saurabhchandrarai/"
+                href="https://www.linkedin.com/in/leadstarship/"
                 target="_blank"
                 rel="noopener"
                 title="Linkdin (new tab)"
@@ -576,7 +428,7 @@
             <br />
             <span>
               <a
-                href="https://github.com/SAURABHRAI110"
+                href="https://github.com/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Github (new tab)"
@@ -588,7 +440,7 @@
 
             <span>
               <a
-                href="https://www.behance.net/saurabhcrai"
+                href="https://www.behance.net/leadstarship"
                 target="_blank"
                 rel="noopener"
                 title="Behance (new tab)"
@@ -598,161 +450,24 @@
               </a>
             </span>
             <br />
-            <span>
-              <a href="#" target="_blank" rel="noopener" title="Download my latest resume">
-                <img src="~assets/svg/resume.svg" alt="resume icon" />
-                <span class="underline-magical">download resume</span>
-              </a>
-              <br />
-            </span>
-
-            <span>
-              <a
-                href="https://open.spotify.com/user/8y43fu36ily4ztnpchb4516li/playlist/6oztnK25WQvEh4fKZ4QPsE?si=B6ptA4LAQTibXGNtYhiXXQ"
-                target="_blank"
-                rel="noopener"
-                title="saurabh rai playlist"
-              >
-                <img src="~assets/img/about/spotify.png" alt="resume icon" />
-                <span class="underline-magical">music I listen when I code</span>
-              </a>
-            </span>
-
-            <!-- <span class="a-500px">
-              <a
-                href="https://www.linkedin.com/in/saurabhchandrarai/"
-                target="_blank"
-                rel="noopener"
-                title="500px (new tab)"
-              >
-                <img src="~assets/svg/500px.svg" alt="500px icon" />
-              </a>
-            </span>-->
-          </p>
-        </div>
-
-        <div class="a-support-help">
-          <p>
-            People who supported me, helped me and from whom I learned all these along the way to
-            fine-tune and get through all those errors in making of this website
-            <br />
-            <span class="a-s-a-container">
-              <span class="supporter-avatar">
-                <a
-                  href="https://www.linkedin.com/in/shekhargupta677/"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img
-                    src="~assets/img/about/supporter-avatar-3.jpg"
-                    alt="people who helped me, shekhar gupta"
-                    title="Shekhar Gupta"
-                  />
-                </a>
-              </span>
-              <span class="supporter-avatar">
-                <a href="https://shantanubanerjee.com" target="_blank" rel="noopener">
-                  <img
-                    src="~assets/img/about/supporter-avatar-2.jpg"
-                    alt="people who helped me, shantanu banerjee"
-                    title="Shantanu Banerjee"
-                  />
-                </a>
-              </span>
-              <span class="supporter-avatar">
-                <a
-                  href="https://www.linkedin.com/in/govind-tomar-22863a13a/"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img
-                    src="~assets/img/about/supporter-avatar-4.jpg"
-                    alt="people who helped me, govind tomar"
-                    title="Govind Tomar"
-                  />
-                </a>
-              </span>
-              <span class="supporter-avatar">
-                <a
-                  href="https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img
-                    src="~assets/img/about/supporter-avatar-5.jpg"
-                    alt="people who helped me, gary simon"
-                    title="Gary Simon"
-                  />
-                </a>
-              </span>
-              <span class="supporter-avatar">
-                <a
-                  href="https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  <img
-                    src="~assets/img/about/supporter-avatar-6.jpg"
-                    alt="people who helped me, traversy media"
-                    title="Brad- Traversy Media"
-                  />
-                </a>
-              </span>
-            </span>
-            <br />+many more
-          </p>
-        </div>
-
-        <div class="a-web-details">
-          <p>
-            <span>This website</span>
-            <br />
-            <span>
-              is powered by:
-              <img
-                src="~assets/img/about/nodejs.svg"
-                alt="node js icon svg"
-                title="nodejs.org"
-              />
-            </span>
-            <br />
-            <span>
-              is hosted on:
-              <img
-                src="~assets/img/about/netlify.svg"
-                alt="netlify icon svg"
-                title="netlify"
-              />
-            </span>
-            <br />
-            <span>
-              <a
-                href="https://github.com/SAURABHRAI110/saurabhcrai.com"
-                target="_blank"
-                rel="noopener"
-              >
-                <span class="underline-magical">has a public repository on Github</span>
-                <img src="~assets/svg/github.svg" alt="netlify icon svg" />
-              </a>
-            </span>
           </p>
         </div>
       </div>
     </section>
 
-    <div class="a-section-divider">
+    <!-- <div class="a-section-divider">
       <div class="section-divider a-end-dots">
         <hr class="section-divider" />
       </div>
-    </div>
+    </div> -->
 
-    <section class="a-footer">
+    <!-- <section class="a-footer">
       <img src="~assets/img/about/a-footer-bg.svg" alt="bg svg" />
       <div class="a-footer_bg_text outlined">
-        <span>See ya!</span>
+        <span>Hello World!</span>
       </div>
       <img class="a-footer-hand" src="~assets/footer/footer-hand.png?webp" alt="hand gesture" />
-    </section>
+    </section> -->
   </div>
 </template>
 
@@ -761,19 +476,19 @@ export default {
   layout: 'projects',
   head() {
     return {
-      title: 'About Me',
-      titleTemplate: '%s - Saurabh Rai',
+      title: 'About Us',
+      titleTemplate: '%s - leadStarship',
       meta: [
         {
           hid: 'description',
           name: 'description',
-          content: ' UX designer at feeding trends.'
+          content: 'Digital Innovation Company'
         },
         {
           hid: 'keywords',
           name: 'keywords',
           content:
-            'UX Designer, saurabhcrai.com, about me, saurabh rai, saurabhrai, about me, UX designer portfolio, user experience designer, best designer portfolio'
+            'leadstarship, digital, app, software, web, strategy, app, design, development, ai, ml, dl, data, marketing, singapore, sri lanka'
         }
       ]
     }
