@@ -111,7 +111,7 @@
 
     <!-- github edit -->
 
-    <div class="contain_blog github-edit">
+    <!-- <div class="contain_blog github-edit">
       <p class="ps">
         Caught a mistake or want to contribute to the blog?
         <span class="red">
@@ -122,7 +122,7 @@
           >Edit this page on GitHub!</a>
         </span>
       </p>
-    </div>
+    </div> -->
     <div class="b-p-hl"></div>
 
     <!-- <div class="container small">

@@ -57,14 +57,14 @@
               <nuxt-link to="/projects">Projects</nuxt-link>
             </span>
             <span class="nav__list-item">
-              <nuxt-link to="/blog">Blog</nuxt-link>
-            </span>
-            <span class="nav__list-item">
               <nuxt-link to="/about">About</nuxt-link>
             </span>
+            <span class="nav__list-item">
+              <nuxt-link to="/blog">Blog</nuxt-link>
+            </span>
             <!-- <span class="nav__list-item">
-              <nuxt-link to="/photography">Photography</nuxt-link>
-            </span>-->
+              <nuxt-link to="/blog">Contact</nuxt-link>
+            </span> -->
           </span>
         </div>
       </div>
@@ -294,12 +294,17 @@ svg {
   left: 50%;
   transform: translate(-50%, -50%);
   font-size: 2.6em;
+  font-weight: 900;
+  letter-spacing: -1px;
 }
 
 .nav__list-item {
   margin: 10px 24px;
   display: inline-block;
   position: relative;
+      background: #000;
+    color: #fff;
+    padding: 0 10px 0 0;
 }
 
 /* .nav__content {
@@ -439,5 +444,21 @@ button.full-screen {
     top: -15px;
     position: absolute;
     left: 0px;
+}
+
+.blacklogo{
+  fill: black !important;
+}
+
+.quick-contact{
+  text-align: center;
+    bottom: 0;
+    /* position: absolute; */
+    margin-top: 100px;
+    opacity: 0.2;
+}
+
+.quick-contact > svg{
+  width: 100% !important;
 }
 </style>

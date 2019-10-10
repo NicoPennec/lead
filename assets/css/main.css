@@ -3958,7 +3958,9 @@ blockquote {
   background-clip: text;
   text-fill-color: transparent;
   -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent; }
+  -webkit-text-fill-color: transparent;
+  padding: 0 0 2px 0;
+ }
 
 @-webkit-keyframes AnimationName {
   0% {

@@ -21,7 +21,7 @@
             <img src="~assets/img/people/home-people-2.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-3.jpg" />
+            <img src="~assets/img/people/home-people-5.jpg" />
           </div>
         </div>
         <div class="h-p-column h-p-column2" v-rellax="{ speed: -9, center: 0.9 }">
@@ -32,7 +32,7 @@
             <img src="~assets/img/people/home-people.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-6.jpg" />
+            <img src="~assets/img/people/home-people-5.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people-7.jpg" />
@@ -43,7 +43,7 @@
             <img src="~assets/img/people/home-people-8.jpg" />
           </div>
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-9.jpg" />
+            <img src="~assets/img/people/home-people-5.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people.jpg" />
@@ -54,7 +54,7 @@
         </div>
         <div class="h-p-column h-p-column4" v-rellax="{ speed: -8, center: 0.4 }">
           <div class="h-p-c-images">
-            <img src="~assets/img/people/home-people-12.jpg" />
+            <img src="~assets/img/people/home-people-5.jpg" />
           </div>
           <div class="h-p-c-images">
             <img src="~assets/img/people/home-people-13.jpg" />

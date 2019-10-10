@@ -328,7 +328,34 @@
             />
           </nuxt-link>
         </div>
-        
+        <div class="p-thumbnail-ad">
+          <nuxt-link to="/projects/toko">
+            <thumbnail
+              thumbnailName="ConciTyre"
+              thumbnailDescription="eCommerce Design & Development"
+              thumbnail="/showcase3.webp"
+              data-aos="fade-up"
+              data-aos-duration="400"
+              data-aos-delay="200"
+              data-aos-once="true"
+              data-aos-anchor-placement="top-bottom"
+            />
+          </nuxt-link>
+        </div>
+         <div class="p-thumbnail-ad">
+          <nuxt-link to="/projects/toko">
+            <thumbnail
+              thumbnailName="Avatar emoji"
+              thumbnailDescription="Design and Illustration"
+              thumbnail="/showcase4.webp"
+              data-aos="fade-up"
+              data-aos-duration="400"
+              data-aos-delay="200"
+              data-aos-once="true"
+              data-aos-anchor-placement="top-bottom"
+            />
+          </nuxt-link>
+        </div>
       </div>
     </div>
 

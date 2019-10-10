@@ -178,133 +178,121 @@
         <h3 class="margin_reveal">Design</h3>
         <div class="a-t_layout">
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Sketch
+              <img src="~assets/img/about/sketch.svg" alt="Sketch" />Sketch
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-1.svg" alt="adobe xd svg icon" /> Adobe XD
+              <img src="~assets/img/about/xd.svg" alt="adobe xd" /> Adobe XD
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Framer X
+              <img src="~assets/img/about/framerx.png" alt="Framer X" />Framer X
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-2.svg" alt="Invision svg icon" />Invision Studio
+              <img src="~assets/img/about/invision.svg" alt="Invision" />Invision Studio
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-10.svg" alt="Adobe Illustrator svg icon" />Adobe Creative Suite
+              <img src="~assets/img/about/adobe-cs.svg" alt="Adobe Creative Cloud" />Adobe Creative Suite
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-5.svg" alt="Zeplin svg icon" />Zeplin
+              <img src="~assets/img/about/zeplin.svg" alt="Zeplin" />Zeplin
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-14.svg" alt="UXPin svg icon" />Figma
+              <img src="~assets/img/about/figma.svg" alt="Figma" />Figma
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-17.png" alt="Balsamiq svg icon" />Balsamiq
-            </span>
-            <!-- <span>
-              <img src="~assets/img/about/a-tools-6.svg" alt="Visual Studio Code svg icon" />Visual Studio Code
+              <img src="~assets/img/about/balsamiq.png" alt="Balsamiq" />Balsamiq
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-18.svg" alt="Atom svg icon" />Atom
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-19.svg" alt="GitHub svg icon" />GitHub
-            </span>
-            <span>
-              <img src="~assets/img/about/a-tools-7.svg" alt="Slack svg icon" />Slack
-            </span> -->
-            <span>
-              <img src="~assets/img/about/a-tools-21.png" alt="Pen & Paper png icon" />Pen & Paper
+              <img src="~assets/img/about/pen-and-paper.png" alt="Pen & Paper" />Pen & Paper
             </span>
         </div>
         <br/>
         <h3 class="margin_reveal">Front end</h3>
         <div class="a-t_layout">
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Angular JS
+              <img src="~assets/img/about/angularjs.svg" alt="AngularJS" />Angular JS
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Vue JS
+              <img src="~assets/img/about/vuejs.svg" alt="VueJS" />Vue JS
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />React
+              <img src="~assets/img/about/react.svg" alt="React" />React
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Javascript ES6
+              <img src="~assets/img/about/jses6.svg" alt="JavaScript" />JavaScript ES6
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Sass
+              <img src="~assets/img/about/sass.svg" alt="Sass" />Sass
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Flexbox
+              <img src="~assets/img/about/bootstrap.svg" alt="Bootstrap" />Bootstrap
             </span>
         </div>
         <br/>
         <h3 class="margin_reveal">Mobile</h3>
         <div class="a-t_layout">
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />React Native
+              <img src="~assets/img/about/react.svg" alt="React Native" />React Native
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Kotlin
+              <img src="~assets/img/about/kotlin.svg" alt="Kotlin" />Kotlin
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Swift
+              <img src="~assets/img/about/swift.svg" alt="Swift" />Swift
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Java
+              <img src="~assets/img/about/java.svg" alt="Java" />Java
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Ionic
+              <img src="~assets/img/about/ionic.svg" alt="Ionic" />Ionic
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Flutter
+              <img src="~assets/img/about/flutter.svg" alt="Flutter" />Flutter
             </span>
         </div>
         <br/>
         <h3 class="margin_reveal">Technologies</h3>
         <div class="a-t_layout">
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Docker
+              <img src="~assets/img/about/docker.svg" alt="Docker" />Docker
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Blockchain
+              <img src="~assets/img/about/blockchain.svg" alt="blockchain" />Blockchain
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />IoT
+              <img src="~assets/img/about/iot.svg" alt="IoT" />IoT
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />ML
+              <img src="~assets/img/about/ml.svg" alt="ML" />ML
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Gaming
+              <img src="~assets/img/about/gaming.svg" alt="Gaming" />Gaming
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />VR & AR
+              <img src="~assets/img/about/vr.svg" alt="VR and AR" />VR & AR
             </span>
         </div>
         <h3 class="margin_reveal">Server side</h3>
         <div class="a-t_layout">
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />LAMP
+              <img src="~assets/img/about/lamp.svg" alt="LAMP" />LAMP
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Java
+              <img src="~assets/img/about/java.svg" alt="Java" />Java
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Node JS
+              <img src="~assets/img/about/node.svg" alt="NodeJS" />Node JS
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Mongo
+              <img src="~assets/img/about/mongo.svg" alt="Mongo" />Mongo
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-8.svg" alt="Sketch svg icon" />Redis
+              <img src="~assets/img/about/redis.svg" alt="Redis" />Redis
             </span>
             <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />C#
+              <img src="~assets/img/about/csharp.svg" alt="C#" />C#
             </span>
              <span>
-              <img src="~assets/img/about/a-tools-9.png" alt="Framer X svg icon" />Python
+              <img src="~assets/img/about/python.svg" alt="Python" />Python
             </span>
         </div>
       </div>
