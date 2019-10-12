@@ -62,7 +62,7 @@
           </nuxt-link>
         </div>
         <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/toko">
+          <nuxt-link to="/projects/concityre">
             <thumbnail
               thumbnailName="ConciTyre"
               thumbnailDescription="eCommerce Design & Development"
@@ -76,7 +76,7 @@
           </nuxt-link>
         </div>
          <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/toko">
+          <nuxt-link to="/projects/avataremoji">
             <thumbnail
               thumbnailName="Avatar emoji"
               thumbnailDescription="Design and Illustration"
@@ -92,10 +92,18 @@
       </div>
     </div>
 
+    <div class="start-a-project">
+      <div class="center-h-v">
+        <nuxt-link to="/projects">
+          <discovermore button-text="view more work" />
+        </nuxt-link>
+      </div>
+    </div>
+
+
     <!-- thumbnail end here -->
     <!-- some more projects links  -->
 
-    <p>&nbsp;<br/></p>
     <p>&nbsp;<br/></p>
     <Footer />
   </div>

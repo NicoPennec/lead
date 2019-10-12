@@ -1,8 +1,8 @@
 {
-  "name": "saurabhcrai.com",
+  "name": "leadstarship.com",
   "version": "1.0.0",
-  "description": "User Experience Designer. ",
-  "author": "Saurabh Chandra Rai",
+  "description": "Digital Innovation Company",
+  "author": "leadStarship",
   "private": true,
   "scripts": {
     "dev": "nuxt",

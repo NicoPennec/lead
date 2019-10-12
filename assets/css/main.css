@@ -1467,27 +1467,27 @@ p {
 	overflow: hidden;
 }
 
-.a-crazy-layout {
+.abstract-layout {
 	position: relative;
 	width: 100%;
 	height: 80vh;
 }
 
-.a-crazy-bg img:nth-child(1) {
+.abstract-bg img:nth-child(1) {
 	position: absolute;
 	bottom: 0%;
 	width: 102%;
 	z-index: 3;
 }
 
-.a-crazy-bg img:nth-child(2) {
+.abstract-bg img:nth-child(2) {
 	position: absolute;
 	bottom: 0%;
 	width: 100%;
 	z-index: 2;
 }
 
-.me-crazy img {
+.us-abstract img {
 	position: absolute;
 	bottom: 160px;
 	height: 65%;
@@ -1496,68 +1496,68 @@ p {
 	z-index: 2;
 }
 
-.me-crazy img:last-child {
+.us-abstract img:last-child {
 	display: none;
 }
 
-.me-crazy:hover img:last-child {
+.us-abstract:hover img:last-child {
 	display: block;
 }
 
-.me-crazy:hover img:first-child {
+.us-abstract:hover img:first-child {
 	display: none;
 }
 
 @media screen and (max-width:1400px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 120px;
 		height: 65%;
 	}
 }
 
 @media screen and (max-width:1200px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 100px;
 		height: 60%;
 	}
 }
 
 @media screen and (max-width:900px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 80px;
 		height: 65%;
 	}
-	.a-crazy-layout {
+	.abstract-layout {
 		height: 60vh;
 	}
 }
 
 @media screen and (max-width:700px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 60px;
 		height: 75%;
 	}
-	.a-crazy-layout {
+	.abstract-layout {
 		height: 40vh;
 	}
 }
 
 @media screen and (max-width:600px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 55px;
 		height: 75%;
 	}
 }
 
 @media screen and (max-width:500px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 42px;
 		height: 75%;
 	}
 }
 
 @media screen and (max-width:400px) {
-	.me-crazy img {
+	.us-abstract img {
 		bottom: 35px;
 		height: 75%;
 	}

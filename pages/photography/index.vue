@@ -1,7 +1,7 @@
 <template>
   <section>
     <div class="p-hero-container">
-      <img src="~assets/photography/p-1.jpg" alt="silhoutte, sunset, sunrise" />
+      <img src="" alt="silhoutte, sunset, sunrise" />
     </div>
     <div class="gallery-container">
       <div class="photo-grid">

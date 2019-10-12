@@ -240,7 +240,7 @@
           </nuxt-link>
         </div>
         <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/toko">
+          <nuxt-link to="/projects/concityre">
             <thumbnail
               thumbnailName="ConciTyre"
               thumbnailDescription="eCommerce Design & Development"
@@ -254,7 +254,7 @@
           </nuxt-link>
         </div>
          <div class="p-thumbnail-ad">
-          <nuxt-link to="/projects/toko">
+          <nuxt-link to="/projects/avataremoji">
             <thumbnail
               thumbnailName="Avatar emoji"
               thumbnailDescription="Design and Illustration"
@@ -270,8 +270,6 @@
       </div>
     </div>
 
-    <!-- view more work -->
-
     <div class="start-a-project">
       <div class="center-h-v">
         <nuxt-link to="/projects">
@@ -281,7 +279,7 @@
     </div>
 
     
-    <homepeople />
+    <projectswall />
 
     <div class="h-blog_heading contain">
       <h1 class="no-white-space">
@@ -294,9 +292,6 @@
 
     <BlogSection :blogs="blogs" />
 
-    <!-- <ArticleList :isPaginated="false" :postsPerPage="4" /> -->
-
-    <!-- view more article -->
     <div class="start-a-project">
       <div class="center-h-v">
         <nuxt-link to="/blog">
@@ -310,7 +305,7 @@
 <script>
 import Thumbnail from '~/components/thumbnail'
 import Discovermore from '~/components/discovermore'
-import Homepeople from '~/components/homepeople'
+import projectswall from '~/components/projectswall'
 import BlogSection from '~/components/Sections/BlogSection'
 import blogsEn from '~/contents/en/blogsEn.js'
 
@@ -318,7 +313,7 @@ export default {
   components: {
     Thumbnail,
     Discovermore,
-    Homepeople,
+    projectswall,
     BlogSection
   },
 

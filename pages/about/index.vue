@@ -140,7 +140,7 @@
               <div class="a-p_layout_row black70">
                 <h2 class="designer">Strategy</h2>
                 <h2 class=""></h2>
-                <span>The first people you’ll meet are our business, UX and technology experts. Together you'll discuss ideas and opportunities, and then we'll deliver blueprints for the best solution.</span>
+                <span>The first projects-parallax you’ll meet are our business, UX and technology experts. Together you'll discuss ideas and opportunities, and then we'll deliver blueprints for the best solution.</span>
               </div>
             </nuxt-link>
            <nuxt-link to="">
@@ -322,20 +322,20 @@
       </div>
 
         
-      <div class="a-crazy-layout">
-        <div class="a-crazy-bg">
-          <img src="~assets/img/about/crazy-bg-red.svg" alt="backgrounds red" />
-          <img src="~assets/img/about/crazy-bg-light-grey.svg" alt="backgrounds red" />
+      <div class="abstract-layout">
+        <div class="abstract-bg">
+          <img src="~assets/img/about/bg-red.svg" alt="backgrounds red" />
+          <img src="~assets/img/about/bg-grey.svg" alt="backgrounds grey" />
         </div>
-        <div class="me-crazy">
+        <div class="us-abstract">
           <img
-            class="me-crazy-1"
-            src="~assets/img/about/me-face1.png?webp"
+            class="us-abstract-1"
+            src="~assets/img/about/galileo_normal.png?webp"
             alt=""
           />
           <img
-            class="me-crazy-2"
-            src="~assets/img/about/me-face-2.png?webp"
+            class="us-abstract-2"
+            src="~assets/img/about/galileo_zoomed.png?webp"
             alt=""
           />
         </div>

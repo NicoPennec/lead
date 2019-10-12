@@ -21,7 +21,7 @@ export default {
 
   head: {
 
-    title: 'leadStarship - Digital Innovation Company',
+    title: 'leadStarship® - Digital Innovation Company',
 
     meta: [
       { charset: 'utf-8' },
@@ -105,7 +105,7 @@ export default {
    ** Customize the progress-bar color
    */
   loading: {
-    color: '#fc3a52',
+    color: '#D91C5C',
     throttle: 0
   },
 
@@ -156,7 +156,7 @@ export default {
     '@nuxtjs/moment',
 
     ['@nuxtjs/google-analytics', {
-      id: 'UA-138976237-1'
+      id: 'UA-149874536-1'
     }],
     '@bazzite/nuxt-optimized-images',
     '@nuxtjs/sitemap',
@@ -165,29 +165,7 @@ export default {
 
 
   ],
-  // optimizedImages: {
-  //   inlineImageLimit: -1,
-  //   handleImages: ['jpeg', 'png', 'svg', 'webp', 'gif'],
-  //   optimizeImages: false,
-  //   optimizeImagesInDev: false,
-  //   defaultImageLoader: 'img-loader',
-  //   mozjpeg: {
-  //     quality: 100
-  //   },
-  //   optipng: true,
-  //   pngquant: {
-  //     speed: 7,
-  //     quality: [0.65, 0.8]
-  //   },
-  //   webp: {
-  //     preset: 'default',
-  //     quality: 85
-  //   }
-  // },
 
-  /*
-   ** Axios module configuration
-   */
   axios: {
     // See https://github.com/nuxt-community/axios-module#options
   },
