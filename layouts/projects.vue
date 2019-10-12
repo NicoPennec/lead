@@ -3,7 +3,9 @@
     <Menu />
     <nuxt />
   </div>
+  
 </template>
+
 
 <script>
 import Menu from '~/components/menu'

@@ -43,18 +43,18 @@
       <div class="me-images">
         <div v-rellax="{ speed: -1.2, center: 0.4 }" class="me-image1">
           <img
-            src="~/assets/img/about/about-me-1c.jpg?webp"
+            src="~/assets/img/about/about1.jpg?webp"
             alt="leadstaship"
           />
         </div>
         <div v-rellax="{ speed: 1, center: 0.3 }" class="me-image2">
-          <img src="~/assets/img/about/about-me-2.jpg?webp" alt="leadstaship" />
+          <img src="~/assets/img/about/about2.jpg?webp" alt="leadstaship" />
         </div>
         <div v-rellax="{ speed: -2, center: 0.7 }" class="me-image4">
-          <img src="~/assets/img/about/about-me-4.jpg?webp" alt="leadstaship" />
+          <img src="~/assets/img/about/about3.jpg?webp" alt="leadstaship" />
         </div>
         <div v-rellax="{ speed: 3, center: 0.5 }" class="me-image3">
-          <img src="~/assets/img/about/about-me-3.jpg?webp" alt="leadstaship" />
+          <img src="~/assets/img/about/about4.jpg?webp" alt="leadstaship" />
         </div>
       </div>
     </div>
@@ -136,21 +136,21 @@
 
         <div class="pm black70">
           <div class="a-p_layout_column">
-            <nuxt-link to="/projects/filmingeye">
+            <nuxt-link to="">
               <div class="a-p_layout_row black70">
                 <h2 class="designer">Strategy</h2>
                 <h2 class=""></h2>
                 <span>The first people you’ll meet are our business, UX and technology experts. Together you'll discuss ideas and opportunities, and then we'll deliver blueprints for the best solution.</span>
               </div>
             </nuxt-link>
-           <nuxt-link to="/projects/filmingeye">
+           <nuxt-link to="">
               <div class="a-p_layout_row black70">
                 <h2 class="designer">Design</h2>
                 <h2 class=""></h2>
                 <span>In this stage, we translate the strategic basis of the project into visual design. The aim is to create an impressive experience in the interaction between the brand and the user.</span>
               </div>
             </nuxt-link>
-            <nuxt-link to="/projects/filmingeye">
+            <nuxt-link to="">
               <div class="a-p_layout_row black70">
                 <h2 class="designer">Development</h2>
                 <h2 class=""></h2>
@@ -320,6 +320,7 @@
           <small class="black70">Fixed Price<br/>Time and Materials <br/>Retained Partnership<br/>Consulting & Training</small>
         </blockquote>
       </div>
+
         
       <div class="a-crazy-layout">
         <div class="a-crazy-bg">
@@ -330,12 +331,12 @@
           <img
             class="me-crazy-1"
             src="~assets/img/about/me-face1.png?webp"
-            alt="  Crazzy Myself, blank and white"
+            alt=""
           />
           <img
             class="me-crazy-2"
             src="~assets/img/about/me-face-2.png?webp"
-            alt="  Crazzy Myself, black and white"
+            alt=""
           />
         </div>
       </div>

@@ -8,7 +8,7 @@
       <applause-button style="width: 70px; height: 70px;" color="#fc3a52" multiclap="true" />
     </div>
 
-    <img src="~assets/footer/appreciate-gesture.png" alt />
+    <img src="~assets/footer/galileo-ai.png" alt />
   </div>
 </template>
 
@@ -27,10 +27,6 @@ export default {
   height: 80vh;
   background-color: #f6ecdd;
   position: relative;
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column; */
 }
 
 .heading {

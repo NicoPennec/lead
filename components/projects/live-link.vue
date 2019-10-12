@@ -16,7 +16,6 @@ export default {
 </script>
 
 <style>
-/* live link  */
 
 .live-link_container {
   width: 100%;

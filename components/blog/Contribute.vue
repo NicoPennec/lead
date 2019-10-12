@@ -1,15 +1,5 @@
 <template>
   <div class="contribute">
-    <!-- <p v-for="(post,key) in bloglist" :key="key">
-      Caught a mistake or want to contribute to the blog?
-      <span class="red">
-        <a
-          :href="`https://github.com/SAURABHRAI110/saurabhcrai.com/tree/master/articles/${post.slug}`"
-          target="_blank"
-          rel="noopener"
-        >Edit this page on GitHub!</a>
-      </span>
-    </p>-->
   </div>
 </template>
 

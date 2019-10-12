@@ -32,7 +32,7 @@
             <a href="tel:+6581784748">
               <span
                 class="sayhi3 black"
-                data-hover="WhatsApp: +6581784748"
+                data-hover="WhatsApp: +6583856543"
               >Singapore: +65 83856543&nbsp;&nbsp;</span>
             </a><br/>
           </span>
@@ -41,7 +41,7 @@
               <span
                 class="sayhi3 black"
                 data-hover="WhatsApp: +94777003095"
-              >Sri Lanka: +94 777003095&nbsp;&nbsp;</span>
+              >Colombo: +94 777003095&nbsp;&nbsp;</span>
             </a><br/>
           </span>
           

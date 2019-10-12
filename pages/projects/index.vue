@@ -95,26 +95,23 @@
     <!-- thumbnail end here -->
     <!-- some more projects links  -->
 
-    <!-- my quote -->
-
-    <div class="my-project-quote">
-      <h1 class="contain" data-aos="fade-up" data-aos-duration="900" data-aos-delay="400">
-          We live by the
-          <span class="outlined">Code of</span> <span class="designer">Passionate</span>
-          Determination
-        </h1>
-    </div>
+    <p>&nbsp;<br/></p>
+    <p>&nbsp;<br/></p>
+    <Footer />
   </div>
+  
 </template>
 
 <script>
 import Thumbnail from '~/components/thumbnail'
 import Projecttimeline from '~/components/projects/projecttimeline'
+import Footer from '~/components/footer'
 export default {
   layout: 'projects',
   components: {
     Thumbnail,
-    Projecttimeline
+    Projecttimeline,
+    Footer
   }
 }
 </script>

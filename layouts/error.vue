@@ -12,8 +12,8 @@
           Oops!
           <br />An error occurred
         </h1>
-        <p v-if="error.statusCode === 404">You must have done something you should not have done</p>
-        <p v-else>Man are you high</p>
+        <p v-if="error.statusCode === 404">Nothing to see here</p>
+        <p v-else>Are you lost?</p>
       </div>
 
       <div class="to-home">

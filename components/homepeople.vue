@@ -1,8 +1,8 @@
 <template>
   <div class="h-people-container">
     <div class="h-p-text">
-      <h1>Our Team</h1>
-      <p><strong class="designer">Get to know us better</strong></p>
+      <h1>More projects</h1>
+      <p><strong class="designer">Every work is a masterpiece</strong></p>
     </div>
     <!-- <div class="c-d">
       <img src="~assets/svg/c-development.svg" alt />

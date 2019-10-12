@@ -2,19 +2,46 @@
   <div class="nav-container">
     <nuxt-link to="/">
       <div class="logo">
-        <!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px"
-	 height="48px" viewBox="0 0 74.7 71.7" style="enable-background:new 0 0 74.7 71.7;" xml:space="preserve">
+       <!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.3px"
+	 height="48px" viewBox="0 0 40.3 48" style="enable-background:new 0 0 40.3 48;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{opacity:0.3;fill:url(#SVGID_3_);}
+	.st3{opacity:0.3;fill:url(#SVGID_4_);}
+	.st4{fill:url(#SVGID_5_);}
+	.st5{fill:url(#SVGID_6_);}
+	.st6{opacity:0.3;fill:url(#SVGID_7_);}
+	.st7{opacity:0.3;fill:url(#SVGID_8_);}
+</style>
 <defs>
 </defs>
 <g>
-	<path style="fill:#D91C5C;" d="M35.9,32.1c0.5-1.4,2.5-1.4,3,0l4.5,13.5l5.3,15.9c0.3,1-0.4,2.1-1.5,2.1h-9.8h-9.8
-		c-1.1,0-1.8-1.1-1.5-2.1l5.3-15.9L35.9,32.1z"/>
-	<path style="fill:none;stroke:#231F20;stroke-width:8;stroke-linecap:round;stroke-miterlimit:10;" d="M22.2,50.4L35.9,9.2
-		c0.5-1.4,2.5-1.4,2.9,0l13.7,41.2"/>
-	<rect style="fill:none;" width="48" height="48"/>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="41.8973" y1="43.5181" x2="18.8588" y2="3.6142">
+		<stop  offset="1.231435e-02" style="stop-color:#D91C5C"/>
+		<stop  offset="1" style="stop-color:#610028"/>
+	</linearGradient>
+	<polygon class="st0" points="40.3,39 31.5,39 15.7,0 24.5,0 	"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0" y1="19.5" x2="24.6042" y2="19.5">
+		<stop  offset="1.231435e-02" style="stop-color:#D91C5C"/>
+		<stop  offset="1" style="stop-color:#B30028"/>
+	</linearGradient>
+	<polygon class="st1" points="0,39 8.7,39 24.6,0 15.7,0 	"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="14.9667" y1="20.0326" x2="14.9667" y2="48">
+		<stop  offset="1.231460e-02" style="stop-color:#434343"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<polygon class="st2" points="20.6,48 9.3,48 15,34 20.6,20 	"/>
+	
+		<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-576.4799" y1="48" x2="-576.4799" y2="20.0326" gradientTransform="matrix(-1 0 0 1 -550.1791 0)">
+		<stop  offset="1.231460e-02" style="stop-color:#434343"/>
+		<stop  offset="1" style="stop-color:#000000"/>
+	</linearGradient>
+	<polygon class="st3" points="20.6,48 32,48 26.3,34 20.6,20 	"/>
 </g>
 </svg>
+
 
       </div>
     </nuxt-link>
