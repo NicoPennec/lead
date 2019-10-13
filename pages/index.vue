@@ -216,7 +216,7 @@
             <thumbnail
               thumbnailName="Sierra Green"
               thumbnailDescription="Mobile App Design & Development"
-              thumbnail="/showcase1.webp"
+              thumbnail="/showcase1.jpg"
               data-aos="zoom-out-up"
               data-aos-duration="400"
               data-aos-delay="0"
@@ -230,7 +230,7 @@
             <thumbnail
               thumbnailName="Toko"
               thumbnailDescription="Mobile App & Blockchain Development"
-              thumbnail="/showcase2.webp"
+              thumbnail="/showcase2.jpg"
               data-aos="fade-up"
               data-aos-duration="400"
               data-aos-delay="200"
@@ -244,7 +244,7 @@
             <thumbnail
               thumbnailName="ConciTyre"
               thumbnailDescription="eCommerce Design & Development"
-              thumbnail="/showcase3.webp"
+              thumbnail="/showcase3.jpg"
               data-aos="fade-up"
               data-aos-duration="400"
               data-aos-delay="200"
@@ -258,7 +258,7 @@
             <thumbnail
               thumbnailName="Avatar emoji"
               thumbnailDescription="Design and Illustration"
-              thumbnail="/showcase4.webp"
+              thumbnail="/showcase4.jpg"
               data-aos="fade-up"
               data-aos-duration="400"
               data-aos-delay="200"
