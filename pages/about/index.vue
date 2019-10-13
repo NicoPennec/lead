@@ -43,7 +43,7 @@
       <div class="me-images">
         <div v-rellax="{ speed: -1.2, center: 0.4 }" class="me-image1">
           <img
-            src="~/assets/img/about/about1.jpg?webp"
+            src="~/assets/img/about/about1.jpg"
             alt="leadstaship"
           />
         </div>
@@ -460,30 +460,7 @@
   </div>
 </template>
 
-// <script>
-// export default {
-//   layout: 'projects',
-//   head() {
-//     return {
-//       title: 'About Us',
-//       titleTemplate: '%s | leadStarship',
-//       meta: [
-//         {
-//           hid: 'description',
-//           name: 'description',
-//           content: 'Digital Innovation Company'
-//         },
-//         {
-//           hid: 'keywords',
-//           name: 'keywords',
-//           content:
-//             'leadstarship, digital, app, software, web, strategy, app, design, development, ai, ml, dl, data, marketing, singapore, sri lanka'
-//         }
-//       ]
-//     }
-//   }
-// }
-// </script>
+
 
 <style scoped>
 </style>
