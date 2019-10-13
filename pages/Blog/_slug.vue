@@ -97,7 +97,7 @@
 
     <div class="post-applause-container">
       <span class="applause">
-        <applause-button style="width: 70px; height: 70px;" color="#fc3a52" multiclap="true" />
+        <applause-button style="width: 70px; height: 70px;" color="#d91c5c" multiclap="true" />
       </span>
     </div>
     <div class="contain_blog">

@@ -5,7 +5,7 @@
     <p>{{subHeading}}</p>
 
     <div class="applause">
-      <applause-button style="width: 70px; height: 70px;" color="#fc3a52" multiclap="true" />
+      <applause-button style="width: 70px; height: 70px;" color="#d91c5c" multiclap="true" />
     </div>
 
     <img src="~assets/footer/galileo-ai.png" alt />

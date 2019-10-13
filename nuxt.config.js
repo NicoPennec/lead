@@ -26,10 +26,10 @@ export default {
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no' },
-      { name: 'msapplication-TileColor', content: '#fc3a52' },
+      { name: 'msapplication-TileColor', content: '#d91c5c' },
       { name: 'application-name', content: 'leadStarship.com' },
       { name: 'msapplication-TileImage', content: '/favicons/mstile-144x144.png' },
-      { name: 'theme-color', content: '#fc3a52' },
+      { name: 'theme-color', content: '#d91c5c' },
       { name: 'robots', content: 'index, follow' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@leadstarship' },
@@ -57,7 +57,7 @@ export default {
     { rel: 'apple-touch-icon', href: '/favicons/apple-touch-icon-144x144.png', sizes: '144x144' },
     { rel: 'apple-touch-icon', href: '/favicons/apple-touch-icon-152x152.png', sizes: '152x152' },
     { rel: 'apple-touch-icon', href: '/favicons/apple-touch-icon-180x180.png', sizes: '180x180' },
-    { rel: 'mask-icon', type: 'image/png', href: '/favicons/safari-pinned-tab.svg', color: '#fc3a52' },
+    { rel: 'mask-icon', type: 'image/png', href: '/favicons/safari-pinned-tab.svg', color: '#d91c5c' },
 
     {
       rel: 'stylesheet',
