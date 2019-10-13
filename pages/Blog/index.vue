@@ -39,6 +39,7 @@
 
     <div class="b-all-article-container">
       <BlogSection :blogs="blogs" />
+      <p>&nbsp;<br/></p>
     </div>
   </div>
 </template>
@@ -46,7 +47,6 @@
 <script>
 import BlogSection from '~/components/Sections/BlogSection'
 import blogsEn from '~/contents/en/blogsEn.js'
-// import blogsEs from '~/contents/es/blogsEs.js'
 
 export default {
   layout: 'blog',
@@ -104,6 +104,7 @@ export default {
   
 }
 </script>
+
 
 <style scoped>
 .b-all-article-container {

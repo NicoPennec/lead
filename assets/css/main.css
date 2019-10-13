@@ -2025,6 +2025,7 @@ body {
 	height: auto;
 	width: 100%;
 	z-index: 1;
+	border-radius: 15px;
 }
 
 .p-fe_photogrid img {

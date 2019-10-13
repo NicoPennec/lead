@@ -21,7 +21,7 @@ export default {
 
   head: {
 
-    title: 'leadStarship® - Digital Innovation Company',
+    title: 'leadStarship - Digital Innovation Company',
 
     meta: [
       { charset: 'utf-8' },

@@ -104,7 +104,6 @@
     <!-- thumbnail end here -->
     <!-- some more projects links  -->
 
-    <p>&nbsp;<br/></p>
     <Footer />
   </div>
   

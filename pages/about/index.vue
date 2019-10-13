@@ -460,30 +460,30 @@
   </div>
 </template>
 
-<script>
-export default {
-  layout: 'projects',
-  head() {
-    return {
-      title: 'About Us',
-      titleTemplate: '%s - leadStarship',
-      meta: [
-        {
-          hid: 'description',
-          name: 'description',
-          content: 'Digital Innovation Company'
-        },
-        {
-          hid: 'keywords',
-          name: 'keywords',
-          content:
-            'leadstarship, digital, app, software, web, strategy, app, design, development, ai, ml, dl, data, marketing, singapore, sri lanka'
-        }
-      ]
-    }
-  }
-}
-</script>
+// <script>
+// export default {
+//   layout: 'projects',
+//   head() {
+//     return {
+//       title: 'About Us',
+//       titleTemplate: '%s | leadStarship',
+//       meta: [
+//         {
+//           hid: 'description',
+//           name: 'description',
+//           content: 'Digital Innovation Company'
+//         },
+//         {
+//           hid: 'keywords',
+//           name: 'keywords',
+//           content:
+//             'leadstarship, digital, app, software, web, strategy, app, design, development, ai, ml, dl, data, marketing, singapore, sri lanka'
+//         }
+//       ]
+//     }
+//   }
+// }
+// </script>
 
 <style scoped>
 </style>
