@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{136:function(e,t,n){"use strict";n.r(t),t.default={title:"leadStarship - Digital Innovation Company",description:"leadStarship is a design and development company that builds high-quality custom software, mobile apps and websites. We always deliver"}}}]);

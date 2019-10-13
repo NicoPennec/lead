@@ -68,8 +68,8 @@ typings/
 # nuxt.js build output
 .nuxt
 
-# Nuxt generate
-dist
+# # Nuxt generate
+# dist
 
 # vuepress build output
 .vuepress/dist
@@ -83,5 +83,5 @@ dist
 # Service worker
 sw.*
 
-# .gitignore
-dist/
+# # .gitignore
+# dist/
