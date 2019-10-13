@@ -4,7 +4,7 @@
       <div class="logo">
        <!-- Generator: Adobe Illustrator 23.1.0, SVG Export Plug-In  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="40.3px"
-	 height="48px" viewBox="0 0 40.3 48" style="enable-background:new 0 0 40.3 48;" xml:space="preserve">
+	 height="36px" viewBox="0 0 40.3 48" style="enable-background:new 0 0 40.3 48;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:url(#SVGID_1_);}
 	.st1{fill:url(#SVGID_2_);}
