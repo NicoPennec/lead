@@ -40,16 +40,16 @@
               data-aos-delay="400"
             >
               <span>
-                <nuxt-link to="/about">Saurabh Rai</nuxt-link>
+                <nuxt-link to="/about">leadStarship</nuxt-link>
               </span>
               <span>
                 <a
                   class="entry-meta-instagram"
-                  href="https://www.instagram.com/saurabh.archives"
+                  href="https://www.instagram.com/leadstarship.archives"
                   target="_blank"
                   rel="noopener"
-                  title="Personal Insta Account"
-                >@saurabh.archives</a>
+                  title="Company Instagram Account"
+                >@leadstarship.archives</a>
               </span>
             </div>
           </div>
@@ -109,42 +109,21 @@
       <div class="b-p-hl"></div>
     </div>
 
-    <!-- github edit -->
-
-    <!-- <div class="contain_blog github-edit">
-      <p class="ps">
-        Caught a mistake or want to contribute to the blog?
-        <span class="red">
-          <a
-            :href="`https://github.com/SAURABHRAI110/saurabhcrai.com/blob/master/articles/${github_doclink}`"
-            target="_blank"
-            rel="noopener"
-          >Edit this page on GitHub!</a>
-        </span>
-      </p>
-    </div> -->
+    
     <div class="b-p-hl"></div>
 
-    <!-- <div class="container small">
-      <no-ssr>
-        <DynamicMarkdown
-          :render-func="renderFunc"
-          :static-render-funcs="staticRenderFuncs"
-          :extra-component="extraComponent"
-        />
-      </no-ssr>
-    </div>-->
+    
 
     <!-- Blog comment form -->
 
-    <comment @comment-submitted="addComment" />
+    <!-- <comment @comment-submitted="addComment" /> -->
 
     <!-- Blog previous comment -->
-    <div class="number-of-comments-container">
+    <!-- <div class="number-of-comments-container">
       <div class="number-of-comments contain">{{ comments.length }} comments</div>
-    </div>
+    </div> -->
 
-    <div>
+    <!-- <div>
       <div class="users-old-comments">
         <div class="contain">
           <p v-if="!comments.length">Be the first to comment.</p>
@@ -155,21 +134,21 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
   </div>
 </template>
 
 <script lang="js">
   
 import DynamicMarkdown from "~/components/Markdown/DynamicMarkdown.vue"
-import Comment from '~/components/blog/comment.vue'
+// import Comment from '~/components/blog/comment.vue'
 import moment from 'moment'
 import axios from 'axios'
 
   export default {
     layout: 'blog',
 
-       components: { DynamicMarkdown, Comment},
+       components: { DynamicMarkdown},
 
     async asyncData ({params, app}) {
       const fileContent = await import(`~/contents/${app.i18n.locale}/blog/${params.slug}.md`)
@@ -212,7 +191,7 @@ import axios from 'axios'
           lang: this.$i18n.locale,
         },
         meta: [
-          { name: "author", content: "Marina Aisa" },
+          { name: "author", content: "leadStarship" },
           { name: "description", property: "og:description", content: this.description, hid: "description" },
           { property: "og:title", content: this.pageTitle },
           { property: "og:image", content: this.ogImage },
@@ -239,45 +218,45 @@ import axios from 'axios'
       formatDate(date) {
         return moment(date).fromNow()
       },
-      addComment(userComment) {
+      // addComment(userComment) {
         // add comment to firebase
-        axios
-          .get(
-            `https://us-central1-saurabhcrai-4484e.cloudfunctions.net/postComment?name=${
-              userComment.name
-            }&comment=${userComment.comment}&blogid=${this.$route.params.slug}`
-          )
-          .then(() => {
-            console.log('comment added')
-            this.getComments()
-          })
-          .catch(() => {
-            console.log('failed to add comment')
-          })
+        // axios
+        //   .get(
+            //`https://us-central1-leadstarship-4484e.cloudfunctions.net/postComment?name=${
+              //userComment.name
+            //}&comment=${userComment.comment}&blogid=${this.$route.params.slug}`
+          // )
+          // .then(() => {
+          //   console.log('comment added')
+          //   this.getComments()
+          // })
+          // .catch(() => {
+          //   console.log('failed to add comment')
+          // })
         // this.comments.push(userComment)
       },
-      getComments() {
-        axios
-          .get(
-            `https://us-central1-saurabhcrai-4484e.cloudfunctions.net/getComments?blogid=${
-              this.$route.params.slug
-            }`
-          )
-          .then(comments => {
-            this.comments = JSON.parse(comments.data.data)
-          })
-      }
-    },
-    mounted() {
-      this.getComments()
-    },
+      // getComments() {
+      //   axios
+          // .get(
+          //   `https://us-central1-leadstarship-4484e.cloudfunctions.net/getComments?blogid=${
+          //     this.$route.params.slug
+          //   }`
+          // )
+          // .then(comments => {
+          //   this.comments = JSON.parse(comments.data.data)
+          // })
+    //   }
+    // },
+    // mounted() {
+    //   this.getComments()
+    // },
 
     computed: {
       ogImage () {
         return `${process.env.baseUrl}/images/blog/${this.id}/_thumbnail.jpg`;
       },
       pageTitle () {
-        return this.title + ' – Saurabh Rai';
+        return this.title + ' – leadStarship';
       },
       showLocales () {
         return this.$i18n.locales.filter(locale => locale.code !== this.$i18n.locale)
@@ -329,67 +308,4 @@ import axios from 'axios'
   }
 }
 
-// .dynamicMarkdown {
-//   padding: 3.2rem 0;
-//   font-size: 16px;
-//   line-height: 1.7;
-//   color: $secondary;
-
-//   > *:not(.datagrid):not(.image-placeholder) {
-//     max-width: 700px;
-//     margin-left: auto;
-//     margin-right: auto;
-//     display: block;
-//   }
-
-//   @media (min-width: $screen-sm) {
-//     padding: 7.2rem 0;
-//     font-size: 19px;
-//   }
-
-//   h2 {
-//     padding-bottom: 3.2rem;
-//     padding-bottom: 2rem;
-
-//     @media (max-width: $screen-sm) {
-//       font-size: 2rem;
-//     }
-//   }
-
-//   h3 {
-//     font-size: 2.2rem;
-//     padding-bottom: 2rem;
-//   }
-
-//   li {
-//     list-style-type: initial;
-//   }
-
-//   pre {
-//     box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.05);
-//     padding: 2.4rem;
-//     border-radius: 4px;
-//     background-color: #f6f8fa;
-//     overflow-x: scroll;
-//     display: block;
-//     margin-bottom: 5rem;
-
-//     code {
-//       background-color: #f6f8fa;
-//     }
-//   }
-
-//   code {
-//     background: #f3f4f4;
-//     border-radius: 4px;
-//     display: inline;
-//     color: $secondary;
-//     font-size: 14px;
-//     padding: 0.2em 0.4em;
-
-//     @media (min-width: $screen-sm) {
-//       font-size: 16px;
-//     }
-//   }
-// }
 </style>
