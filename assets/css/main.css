@@ -114,6 +114,7 @@ a {
 
 .sayhi-container {
 	font-family: circular-book;
+	width: 100%;
 }
 
 ::-moz-selection {
