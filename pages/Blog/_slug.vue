@@ -140,7 +140,7 @@
 
 <script lang="js">
   
-import DynamicMarkdown from "~/components/Markdown/DynamicMarkdown.vue"
+import DynamicMarkdown from "~/components/markdown/DynamicMarkdown.vue"
 // import Comment from '~/components/blog/comment.vue'
 import moment from 'moment'
 import axios from 'axios'
