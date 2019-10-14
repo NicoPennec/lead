@@ -102,7 +102,7 @@
         data-aos-delay="400"
       >
         <h1>
-          <span>Digital Innovation <br/>Company</span>
+          <span class="threesize">Digital Innovation <br/>Company</span>
           <br />
           <span class="outlined">that creates</span><br class="mobile-only"/>
           <span class="designer">Progress</span>
@@ -451,6 +451,7 @@ export default {
 @media screen and (max-width: 500px) {
   .h-hero-title {
     margin-top: 100px;
+    font-size: 2rem;
   }
 
   .h-sec2-container {

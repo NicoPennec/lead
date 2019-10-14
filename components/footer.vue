@@ -19,7 +19,7 @@
         </div>
 
         <div class="sayhi-container">
-          <span class="sayhi2 para black61">or just say hi!</span>
+          <span class="sayhi2 para black61">or just say hi!</span><br/>
           <span class="link-effect2 hover-link2">
             <a href="mailto:hello@leadstarship.com">
               <span
